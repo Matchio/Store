@@ -18,7 +18,7 @@
       </main>
       <footer class="bg-white py-4 mt-10 shadow-inner">
         <div class="container mx-auto text-center text-gray-600">
-          © 2024 My Portfolio
+          © 2024 My Portfoli o
         </div>
       </footer>
     </div>
