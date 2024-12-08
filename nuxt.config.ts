@@ -1,6 +1,12 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  compatibilityDate: '2024-04-03',
+  compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
-  modules: ['@nuxtjs/tailwindcss']
+  css: [
+    'bootstrap/dist/css/bootstrap.css',
+    'bootstrap-icons/font/bootstrap-icons.css',
+  ],
+  build: {
+    transpile: ['bootstrap-vue-3'],
+  },
 })
