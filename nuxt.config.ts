@@ -9,4 +9,5 @@ export default defineNuxtConfig({
   build: {
     transpile: ['bootstrap-vue-3'],
   },
+
 })

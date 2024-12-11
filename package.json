@@ -16,5 +16,9 @@
     "nuxt": "^3.14.1592",
     "vue": "latest",
     "vue-router": "latest"
+  },
+  "devDependencies": {
+    "sass": "^1.82.0",
+    "sass-loader": "^16.0.4"
   }
 }
