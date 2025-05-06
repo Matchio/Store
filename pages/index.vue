@@ -16,7 +16,7 @@
         </div>
         <div class="text-center mb-5">
             <h1>OakTana</h1>
-            Hi! I'm Oak NaHee, a fullstack developer who loves gaming, coding, and building cool projects. Connect with
+            Hi! I'm Oak, a fullstack developer who loves gaming, coding, and building cool projects. Connect with
             me!
             <p class="lead">
             </p>
