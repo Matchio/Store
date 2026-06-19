@@ -1,12 +1,9 @@
 <template>
-
-    <div class="container my-5 bg-custom-blue">
-        <!-- ส่วนหัว -->
+    <div class="container my-5 bg-custom-green p-4 rounded">
         <div class="text-center mb-5">
 
         </div>
 
-        <!-- รูปโปรไฟล์ -->
         <div class="text-center mb-4">
             <div class="position-relative d-inline-block rounded-circle shadow"
                 style="width: 300px; height: 300px; overflow: hidden; background-color: transparent;">
@@ -21,7 +18,6 @@
             <p class="lead">
             </p>
         </div>
-        <!-- ลิงก์โซเชียล -->
         <div class="text-center">
             <a href="https://www.facebook.com/oak.tana.5" class="btn btn-primary mx-2" target="_blank">
                 <i class="bi bi-facebook"></i> Facebook
@@ -45,4 +41,9 @@
 
 </script>
 
-<style scoped></style>
+<style scoped>
+/* กำหนดโค้ดสีเขียวอ่อนที่นี่ */
+.bg-custom-green {
+    background-color: #e8f5e9; /* สีเขียวอ่อนแบบพาสเทล */
+}
+</style>
